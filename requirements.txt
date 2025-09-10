@@ -1,0 +1,18 @@
+# Core libraries
+requests==2.32.3
+pandas==2.2.3
+
+# Visualization & mapping
+matplotlib==3.9.2
+folium==0.17.0
+
+# GUI (Tkinter is built-in, PyQt optional)
+tk==0.1.0
+PyQt5==5.15.11
+
+# Geo handling
+geopandas==1.0.1
+shapely==2.0.6
+
+# JSON handling (builtin but ujson is faster)
+ujson==5.10.0
